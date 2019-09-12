@@ -1,1 +1,0 @@
-# vagrant-ansible-k8s-setup
